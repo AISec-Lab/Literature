@@ -6,6 +6,10 @@
 
 ["Preventing Use-after-free with Dangling Pointers Nullification."](https://lifeasageek.github.io/papers/lee-dangnull.pdf) Lee, Byoungyoung, Chengyu Song, Yeongjin Jang, Tielei Wang, Taesoo Kim, Long Lu, and Wenke Lee. In NDSS. 2015.
 
+### Heap Security
+
+["Freeguard: A faster secure heap allocator."](https://dl.acm.org/doi/pdf/10.1145/3133956.3133957) Silvestro, Sam, Hongyu Liu, Corey Crosser, Zhiqiang Lin, and Tongping Liu. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, pp. 2389-2403. 2017.
+
 ### Survey
 
 ["SoK: sanitizing for security."](https://ieeexplore.ieee.org/iel7/8826229/8835208/08835389.pdf) Song, Dokyung, Julian Lettner, Prabhu Rajasekaran, Yeoul Na, Stijn Volckaert, Per Larsen, and Michael Franz.  In 2019 IEEE Symposium on Security and Privacy (SP), pp. 1275-1295. IEEE, 2019.
