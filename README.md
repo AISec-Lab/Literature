@@ -1,4 +1,4 @@
 ### Literature
 
-[Memory Safety](Memory-Safety.md)
-[Rust](Rust.md)
+* [Memory Safety](Memory-Safety.md)  
+* [Rust](Rust.md)
