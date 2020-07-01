@@ -8,8 +8,8 @@
 
 ### Heap Security
 
-* ["Automatic Techniques to Systematically Discover New Heap Exploitation Primitives"](), Insu Yun, Dhaval Kapil, Taesoo Kim, USENIX Security, 2020
-* ["KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities"], Weiteng Chen, Xiaochen Zou, Guoren Li, and Zhiyun Qian, USENIX Security, 2020
+* ["Automatic Techniques to Systematically Discover New Heap Exploitation Primitives"](https://www.usenix.org/conference/usenixsecurity20/presentation/yun), Insu Yun, Dhaval Kapil, Taesoo Kim, USENIX Security, 2020
+* ["KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities"](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-weiteng), Weiteng Chen, Xiaochen Zou, Guoren Li, and Zhiyun Qian, USENIX Security, 2020
 * ["Freeguard: A faster secure heap allocator."](https://dl.acm.org/doi/pdf/10.1145/3133956.3133957) Silvestro, Sam, Hongyu Liu, Corey Crosser, Zhiqiang Lin, and Tongping Liu. In Proceedings of the 2017 ACM SIGSAC Conference on Computer and Communications Security, pp. 2389-2403. 2017.
 
 
